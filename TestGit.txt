@@ -1,0 +1,5 @@
+Prueba de control de versiones
+
+En este ejemplo realizaré un cambio de información por medio de versiones en git.
+
+Soy Alex Peña y poco a poco estoy siendo un gran programador.
