@@ -2,10 +2,4 @@ Prueba de control de versiones
 
 En este ejemplo realizaré un cambio de información por medio de versiones en git.
 
-Soy Alex Peña y poco a poco estoy siendo un gran programador, aunque me cuesta un poco mantener mi ritmo de estudio.
-
-Hay mucho por aprender, pero la clave está en empezar.
-
-Aprender de verdad es un aspecto que duele, pero su sacrificio vale la pena.
-
-No importa cuanto tiempo tengas, sino, cómo lo utilizas.
+Soy Alex Peña y poco a poco estoy siendo un gran programador.
